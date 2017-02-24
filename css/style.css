@@ -1,0 +1,28 @@
+.parallax img {
+    display: block;
+}
+
+.parallax-container {
+    height: 500px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+.text-weight-300 {
+    font-weight: 300;
+}
+
+.text-weight-500 {
+    font-weight: 500;
+}
+
+#orderDiv {
+    display: inline;
+    overflow-y: scroll;
+    height: 380px;
+}
+
+#contactDiv {
+    height: 50vh;
+    display: inline;
+}
