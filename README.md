@@ -1,2 +1,2 @@
 # Galvanize Delivers2...
-Remake using Materialze
+Remake using Materialize
