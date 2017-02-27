@@ -1,3 +1,5 @@
+
+/* parallax */
 .parallax img {
     display: block;
 }
@@ -8,14 +10,8 @@
     flex-flow: column;
     justify-content: center;
 }
-.text-weight-300 {
-    font-weight: 300;
-}
 
-.text-weight-500 {
-    font-weight: 500;
-}
-
+/* order page */
 #orderDiv {
     display: inline;
     overflow-y: scroll;
@@ -25,4 +21,31 @@
 #contactDiv {
     height: 50vh;
     display: inline;
+}
+
+/* logo */
+.brand-logo {
+    margin-left: 1em;
+}
+
+/* font */
+.text-weight-300 {
+    font-weight: 300;
+}
+
+.text-weight-500 {
+    font-weight: 500;
+}
+
+/* sub-footer */
+#footer_Container {
+
+}
+
+/* sub-footer */
+#sub_footer {
+    height: 4em;
+    line-height: 4em;
+    white-space: nowrap;
+
 }
